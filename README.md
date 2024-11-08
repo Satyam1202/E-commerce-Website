@@ -8,3 +8,6 @@ This is a fully responsive website that has compatible with all devices with a p
 * Contains a contact page.
 * Contains a cart page.
 * Contains smooth scrolling in each section.
+
+## Demo
+https://github.com/user-attachments/assets/28076ebc-30f6-4809-ba24-885982238f1c
