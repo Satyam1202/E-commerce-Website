@@ -10,9 +10,8 @@ This is a fully responsive website that has compatible with all devices with a p
 * Contains smooth scrolling in each section.
 
 ## Images
-![Screenshot (1)](https://github.com/user-attachments/assets/2d1a0d89-c4d9-4496-a93f-df6c59d85df9)
-![Screenshot (2)](https://github.com/user-attachments/assets/8e98be0d-f51b-4bfc-ac9c-06eec3f94f1b)
 ![Screenshot (3)](https://github.com/user-attachments/assets/e35502cd-fd40-456b-bb49-e78851dc565c)
+![Screenshot (2)](https://github.com/user-attachments/assets/8e98be0d-f51b-4bfc-ac9c-06eec3f94f1b)
 
 
 ## Demo
